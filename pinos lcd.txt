@@ -1,0 +1,16 @@
+1. cinza -> gnd
+2. azul -> 9
+3. verde -> 2
+4. amarelo -> 3
+5. laranja -> 4
+6. vermelho -> 5
+7. nada
+8. nada
+9. nada
+10. nada
+11. verde -> 11
+12. marrom -> gnd
+13. cinza -> 12
+14. amarelo -> 6
+15. vermelho -> 5v
+16. marrom -> gnd
